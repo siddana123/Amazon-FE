@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: amazon
-        image: patelajay745/amazon:latest
+        image: siddu654321/amazon:latest
         ports:
         - containerPort: 3000
